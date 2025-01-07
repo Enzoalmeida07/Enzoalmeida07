@@ -13,5 +13,5 @@ Sou um **desenvolvedor front-end júnior**, apaixonado por criar interfaces resp
 
 ## 📫 Como me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-almeida-3a5bb5344)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzoalmeidda/)
+[![Instagram](https://img.shields.io/badge/Instagram-ff007f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzoalmeidda/)
 

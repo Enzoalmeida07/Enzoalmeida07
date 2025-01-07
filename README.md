@@ -6,13 +6,6 @@ Olá, sou Enzo Almeida, estudante do curso técnico de informática integrado ao
 - HTML5, CSS3, JavaScript  
 - Design responsivo e boas práticas de front-end
 
-  ## 🛠️ Minhas Linguagens Mais Usadas  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoalmeida07
-&layout=compact&theme=radical)](https://github.com/Enzoalmeida07
-)
-
-
 ## 🛠️ Ferramentas e Tecnologias  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  

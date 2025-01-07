@@ -1,4 +1,4 @@
-# <span style="color:blue;">Hello! Welcome To My Profile</span>
+# ![Hello! Welcome To My Profile]([URL_DO_SEU_GIF](https://www.canva.com/design/DAGbiPl9JtA/W_jKIH-AeyzMGXbZeE5kUA/watch?utm_content=DAGbiPl9JtA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5c85b38a0d))
 
 Olá, sou Enzo Almeida, estudante do curso técnico de informática integrado ao ensino médio no IFPE - Campus Garanhuns. Estou me aprendendo sobre desenvolvimento web, com habilidades em HTML, CSS e JavaScript, e tenho como objetivo criar interfaces responsivas e funcionais para a web.
 

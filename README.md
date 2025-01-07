@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o <span style="color:blue;">Enzo Almeida</span>
+# <span style="color:blue;">Hello! Welcome To My Profile</span>
 
 Olá, sou Enzo Almeida, estudante do curso técnico de informática integrado ao ensino médio no IFPE - Campus Garanhuns. Estou me aprendendo sobre desenvolvimento web, com habilidades em HTML, CSS e JavaScript, e tenho como objetivo criar interfaces responsivas e funcionais para a web.
 

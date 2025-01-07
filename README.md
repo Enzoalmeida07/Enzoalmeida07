@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Enzo Almeida  
 
-<!--
-**Enzoalmeida07/Enzoalmeida07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **desenvolvedor front-end júnior**, apaixonado por criar interfaces responsivas e funcionais.  
 
-Here are some ideas to get you started:
+## 🌱 Em constante aprendizado  
+- HTML5, CSS3, JavaScript  
+- Design responsivo e boas práticas de front-end  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projetos Recentes  
+- **Portfólio Web Responsivo**  
+- **Calculadora Interativa**  
+
+## 🛠️ Ferramentas e Tecnologias  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+## 📫 Como me encontrar  
+- **LinkedIn:** [Enzo Almeida]([https://www.linkedin.com/in/seu-perfil-aqui/](https://www.linkedin.com/in/enzo-almeida-3a5bb5344)  

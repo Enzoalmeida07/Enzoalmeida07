@@ -8,7 +8,8 @@ Olá, sou Enzo Almeida, estudante do curso técnico de informática integrado ao
 
   ## 🛠️ Minhas Linguagens Mais Usadas  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username-aqui&layout=compact&theme=radical)](https://github.com/Enzoalmeida07
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoalmeida07
+&layout=compact&theme=radical)](https://github.com/Enzoalmeida07
 )
 
 

@@ -1,4 +1,4 @@
-# ![Hello! Welcome To My Profile](https://www.canva.com/design/DAGbiPl9JtA/-2mz8QvZCgBlrH8Z3TC_HQ/edit?utm_content=DAGbiPl9JtA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+# Hello! Welcome To My Profile
 
 Olá, sou Enzo Almeida, estudante do curso técnico de informática integrado ao ensino médio no IFPE - Campus Garanhuns. Estou me aprendendo sobre desenvolvimento web, com habilidades em HTML, CSS e JavaScript, e tenho como objetivo criar interfaces responsivas e funcionais para a web.
 

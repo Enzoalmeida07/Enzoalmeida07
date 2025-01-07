@@ -12,4 +12,4 @@ Sou um **desenvolvedor front-end júnior**, apaixonado por criar interfaces resp
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ## 📫 Como me encontrar  
-- **LinkedIn:** [Enzo Almeida]([https://www.linkedin.com/in/seu-perfil-aqui/](https://www.linkedin.com/in/enzo-almeida-3a5bb5344)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo%20Almeida-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/enzo-almeida-3a5bb5344)  

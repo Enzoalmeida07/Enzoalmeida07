@@ -1,15 +1,4 @@
-<h1 align="center" style="color:blue;">👋 Olá! Eu sou o <span style="animation: bounce 1s infinite;">Enzo Almeida</span></h1>
-
-<style>
-@keyframes bounce {
-  0%, 100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-10px);
-  }
-}
-</style>
+# 👋 Olá! Eu sou o <span style="color:blue;">Enzo Almeida</span>
 
 Olá, sou Enzo Almeida, estudante do curso técnico de informática integrado ao ensino médio no IFPE - Campus Garanhuns. Estou me especializando em desenvolvimento web, com habilidades em HTML, CSS e JavaScript, e tenho como objetivo criar interfaces responsivas e funcionais para a web.
 

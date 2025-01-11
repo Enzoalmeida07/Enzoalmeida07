@@ -1,6 +1,8 @@
+<div align="center">
+
 # Hello! Welcome To My Profile
 
-Olá, sou Enzo Almeida, estudante do curso técnico de informática integrado ao ensino médio no IFPE - Campus Garanhuns. Estou me aprendendo sobre desenvolvimento web, com habilidades em HTML, CSS e JavaScript, e tenho como objetivo criar interfaces responsivas e funcionais para a web.
+Olá, sou Enzo Almeida, estudante do curso técnico de informática integrado ao ensino médio no IFPE - Campus Garanhuns. Estou aprendendo sobre desenvolvimento web, com habilidades em HTML, CSS e JavaScript, e tenho como objetivo criar interfaces responsivas e funcionais para a web.
 
 ## 🌱 Em constante aprendizado  
 - HTML5, CSS3, JavaScript  
@@ -15,5 +17,11 @@ Olá, sou Enzo Almeida, estudante do curso técnico de informática integrado ao
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoalmeida07&layout=compact&hide=html&title_color=ffffff&text_color=ffffff&bg_color=000000)
 
 ## 📫 Como me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-almeida-3a5bb5344)
-[![Instagram](https://img.shields.io/badge/Instagram-ff007f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzoalmeidda/)
+<a href="https://www.linkedin.com/in/enzo-almeida-3a5bb5344" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/enzoalmeidda/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-ff007f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+</div>

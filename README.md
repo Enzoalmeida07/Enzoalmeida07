@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá! Eu sou Enzo Almeida 👋
 
-<!--
-**Enzoalmeida07/Enzoalmeida07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico em Informática pelo IFPE<br>
+💻 Bacharelando em Ciência da Computação pela UFAPE<br>
+🚀 Desenvolvedor Júnior
 
-Here are some ideas to get you started:
+Tenho interesse em **desenvolvimento de software**, programação e desenvolvimento web. Busco aprimorar constantemente minhas habilidades por meio de projetos acadêmicos e pessoais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</p>
+
+## 💡 Meus conhecimentos
+
+* 💻 Programação em **C** e **Java**
+* 🌐 **HTML** e **CSS**
+* ⚡ **JavaScript** e **TypeScript**
+* ⚛️ **React**
+* 🟢 **Node.js** e **Express**
+* 🔗 Desenvolvimento de **APIs REST**
+* 🗄️ Bancos de dados relacionais
+* 🔧 **Git** e **GitHub**
+* 🧩 Estruturas de dados e algoritmos
+
+## 📫 Contato
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/enzo-almeida-3a5bb5344)
+* 📧 [enzomuryllo6@gmail.com](mailto:enzomuryllo6@gmail.com)
+

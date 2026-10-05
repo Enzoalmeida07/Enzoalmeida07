@@ -29,7 +29,7 @@ Tenho interesse em **desenvolvimento de software**, programação e desenvolvime
 * ⚛️ **React**
 * 🟢 **Node.js** e **Express**
 * 🔗 Desenvolvimento de **APIs REST**
-* 🗄️ Bancos de dados relacionais
+* 🗄️ Bancos de dados
 * 🔧 **Git** e **GitHub**
 * 🧩 Estruturas de dados e algoritmos
 
